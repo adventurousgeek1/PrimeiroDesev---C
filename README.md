@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @matheusbezerra
 - 👀 I’m interested in  aprender linguagens c, c++,java
-- 🌱 I’m currently learning  C
+- 🌱 I’m currently learning  C,Java,Sql
 - 💞️ I’m looking to collaborate para aprimorar meus conhecimentos
 - 📫 How to reach me  85-992859836
 
